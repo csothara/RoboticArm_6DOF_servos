@@ -1,4 +1,4 @@
-# RoboticArm_6DOF_servos
+# RoboticArm_5DOF_servos
 This personal technical project is the first robotic system I developed.
 Its purpose is to explore and improve essential skills in robotics and mechatronics such as :
 - Mechanical design
